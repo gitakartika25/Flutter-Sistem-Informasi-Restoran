@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "688636287048",
+    "project_id": "resto-mobile-c00f4",
+    "storage_bucket": "resto-mobile-c00f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688636287048:android:75ac7e02e15629f5fa207d",
+        "android_client_info": {
+          "package_name": "com.example.resto_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688636287048-7e43pc8bp7sfv40f3ucl67qk5piar9nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resto_mobile",
+            "certificate_hash": "dee38c167267cadcea3525c72e503bd1233c3981"
+          }
+        },
+        {
+          "client_id": "688636287048-7i11idfuf27n90tbfv1snc3nal6q1hko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resto_mobile",
+            "certificate_hash": "eb8a19170a3d59ae7795bcd77b6db8862cd691e0"
+          }
+        },
+        {
+          "client_id": "688636287048-78k7v71bkp192mm6a3m9kaqk1mg7bmkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL38EAMqU4VGLOC-3FIqhcJKSmey9RRIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688636287048-78k7v71bkp192mm6a3m9kaqk1mg7bmkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
